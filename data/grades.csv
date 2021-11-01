@@ -1,0 +1,105 @@
+ID,YEAR,STUDENT_ID,COURSE,GRADE
+0,2021/2022,1,Informatique,15.62
+1,2021/2022,2,Informatique,15.02
+2,2021/2022,3,Informatique,12.34
+3,2021/2022,4,Informatique,19.68
+4,2021/2022,5,Informatique,19.04
+5,2021/2022,6,Informatique,19.18
+6,2021/2022,7,Informatique,9.54
+7,2021/2022,8,Informatique,19.72
+8,2021/2022,9,Informatique,8.88
+9,2021/2022,10,Informatique,12.19
+10,2021/2022,11,Informatique,19.41
+11,2021/2022,12,Informatique,16.33
+12,2021/2022,13,Informatique,9.91
+13,2021/2022,14,Informatique,14.33
+14,2021/2022,15,Informatique,10.45
+15,2021/2022,16,Informatique,16.76
+16,2021/2022,17,Informatique,13.21
+17,2021/2022,18,Informatique,15.77
+18,2021/2022,19,Informatique,18.69
+19,2021/2022,20,Informatique,10.96
+20,2021/2022,21,Informatique,9.98
+21,2021/2022,22,Informatique,18.58
+22,2021/2022,23,Informatique,18.96
+23,2021/2022,24,Informatique,11.71
+24,2021/2022,25,Informatique,14.95
+25,2021/2022,26,Informatique,13.94
+26,2021/2022,1,Aeronotique,16.42
+27,2021/2022,2,Aeronotique,8.85
+28,2021/2022,3,Aeronotique,10.21
+29,2021/2022,4,Aeronotique,11.93
+30,2021/2022,5,Aeronotique,9.52
+31,2021/2022,6,Aeronotique,16.07
+32,2021/2022,7,Aeronotique,9.83
+33,2021/2022,8,Aeronotique,9.7
+34,2021/2022,9,Aeronotique,19.62
+35,2021/2022,10,Aeronotique,13.32
+36,2021/2022,11,Aeronotique,15.01
+37,2021/2022,12,Aeronotique,11.04
+38,2021/2022,13,Aeronotique,15.34
+39,2021/2022,14,Aeronotique,18.87
+40,2021/2022,15,Aeronotique,10.77
+41,2021/2022,16,Aeronotique,13.42
+42,2021/2022,17,Aeronotique,10.99
+43,2021/2022,18,Aeronotique,17.91
+44,2021/2022,19,Aeronotique,15.43
+45,2021/2022,20,Aeronotique,8.21
+46,2021/2022,21,Aeronotique,12.38
+47,2021/2022,22,Aeronotique,19.62
+48,2021/2022,23,Aeronotique,10.01
+49,2021/2022,24,Aeronotique,15.56
+50,2021/2022,25,Aeronotique,10.86
+51,2021/2022,26,Aeronotique,10.31
+52,2021/2022,1,Electronique,12.92
+53,2021/2022,2,Electronique,11.68
+54,2021/2022,3,Electronique,18.49
+55,2021/2022,4,Electronique,13.45
+56,2021/2022,5,Electronique,10.9
+57,2021/2022,6,Electronique,18.35
+58,2021/2022,7,Electronique,14.76
+59,2021/2022,8,Electronique,16.64
+60,2021/2022,9,Electronique,12.38
+61,2021/2022,10,Electronique,8.52
+62,2021/2022,11,Electronique,9.08
+63,2021/2022,12,Electronique,11.51
+64,2021/2022,13,Electronique,16.47
+65,2021/2022,14,Electronique,9.24
+66,2021/2022,15,Electronique,8.96
+67,2021/2022,16,Electronique,12.88
+68,2021/2022,17,Electronique,19.21
+69,2021/2022,18,Electronique,17.78
+70,2021/2022,19,Electronique,13.67
+71,2021/2022,20,Electronique,17.75
+72,2021/2022,21,Electronique,15.54
+73,2021/2022,22,Electronique,13.32
+74,2021/2022,23,Electronique,12.17
+75,2021/2022,24,Electronique,12.48
+76,2021/2022,25,Electronique,13.86
+77,2021/2022,26,Electronique,10.96
+78,2021/2022,1,Grand Projet,16.01
+79,2021/2022,2,Grand Projet,18.79
+80,2021/2022,3,Grand Projet,12.94
+81,2021/2022,4,Grand Projet,19.22
+82,2021/2022,5,Grand Projet,15.65
+83,2021/2022,6,Grand Projet,16.43
+84,2021/2022,7,Grand Projet,9.82
+85,2021/2022,8,Grand Projet,16.37
+86,2021/2022,9,Grand Projet,13.88
+87,2021/2022,10,Grand Projet,17.73
+88,2021/2022,11,Grand Projet,9.21
+89,2021/2022,12,Grand Projet,14.78
+90,2021/2022,13,Grand Projet,9.21
+91,2021/2022,14,Grand Projet,13.13
+92,2021/2022,15,Grand Projet,15.29
+93,2021/2022,16,Grand Projet,18.97
+94,2021/2022,17,Grand Projet,19.11
+95,2021/2022,18,Grand Projet,9.74
+96,2021/2022,19,Grand Projet,16.6
+97,2021/2022,20,Grand Projet,17.39
+98,2021/2022,21,Grand Projet,9.28
+99,2021/2022,22,Grand Projet,14.74
+100,2021/2022,23,Grand Projet,12.86
+101,2021/2022,24,Grand Projet,11.1
+102,2021/2022,25,Grand Projet,13.37
+103,2021/2022,26,Grand Projet,16.5
