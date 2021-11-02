@@ -12,6 +12,7 @@ import tkinter as Tk
 class Controller:
     def __init__(self):
         self.root = Tk.Tk()
+        self.root.geometry("1000x600")
         self.model = Model()
         #self.model.createRecordsFromCSV()
         self.view = View(self.root)
@@ -21,6 +22,9 @@ class Controller:
         #self.model.addGradeRecord("2021/2022",1,"Anglais",16.8)
         #self.model.updateGradeRecord(108,"2021/2022",25,"Anglais",13.5)
         #grades_df = self.model.getRecordsFromTable("grades")
-        df = self.model.getAllRecords()
-        print(df)
-        #del self.model
+        #df = self.model.getAllRecords()
+        
+    def run(self):
+        self.root.title("Tkinter MVC example")
+        self.root.deiconify()
+        self.root.mainloop()
